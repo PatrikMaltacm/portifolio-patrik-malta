@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import './App.css'
+import img from './assets/Avatar.svg'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -12,7 +13,7 @@ function App() {
       <div className='primary-info'>
           <h1 className='about-me'>Olá, sou Patrik</h1>
           <h3>Desenvolvedor FrontEnd</h3>
-          <img src="https://live.staticflickr.com/65535/53571820358_bda6ac34a8_m.jpg" alt=""/>
+          <img src={img} alt=""/>
       </div>
 
       <div className='tecnolog-container'>
