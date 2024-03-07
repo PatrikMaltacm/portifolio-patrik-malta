@@ -8,7 +8,9 @@ function App() {
   return (
     <div className='content'>
       <header>
-        <a href="https://wa.me/5569999062926?text=Gostaria+de+or%C3%A7ar+um+servi%C3%A7o+WEB" className='contact-button'>Contato</a>
+        {/* <a href="https://wa.me/5569999062926?text=Gostaria+de+or%C3%A7ar+um+servi%C3%A7o+WEB" className='contact-button'>Contato</a> */}
+        <a href="https://github.com/PatrikMaltacm" className='contact-button'>GitHub</a>
+        <a href="https://www.linkedin.com/in/patrik-malta-1160552b6/" className='contact-button'>Linkedin</a>
       </header>
       <div className='primary-info'>
           <h1 className='about-me'>Olá, sou Patrik</h1>
