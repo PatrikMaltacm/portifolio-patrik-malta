@@ -59,7 +59,7 @@ function App() {
             </div>
           </div>
           <div className='p-1'>
-          <div className="head-project">
+            <div className="head-project">
               <h3>Miaw Facts</h3>
             </div>
             <p>Projeto que tambem fiz para estudo sobre curiosidades do mundo felino</p>
@@ -69,8 +69,7 @@ function App() {
             </div>
           </div>
         </div>
-        
-      </div>
+      </div>   
     </div>
   )
 }
