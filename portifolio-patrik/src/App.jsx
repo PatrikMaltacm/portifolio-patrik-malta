@@ -40,7 +40,7 @@ function App() {
         <div className='rows-container'>
           <div className='p-1'>
             <div className="head-project">
-              <h3>Biografia com formulario</h3>
+              <h3>Biografia com formulário</h3>
             </div>
             <p>Fiz esse projeto para uso no meu perfil sobre progamação</p>
             <p>Tudo feito com ReactJs e uso de API externa para envio de email</p>
@@ -52,10 +52,20 @@ function App() {
           <div className="head-project">
               <h3>Clima e temperatura</h3>
             </div>
-            <p>Projeto de estudo sobre a temperatura de sua cidade</p>
+            <p>Projeto que fiz para estudo sobre a temperatura de sua cidade</p>
             <p>Tudo feito com ReactJs e tambem uso de API externa para envio de email</p>
             <div className='foot-project'>
               <a href="https://patrikmaltacm.github.io/climalta/">Olhar</a>
+            </div>
+          </div>
+          <div className='p-1'>
+          <div className="head-project">
+              <h3>Miaw Facts</h3>
+            </div>
+            <p>Projeto que tambem fiz para estudo sobre curiosidades do mundo felino</p>
+            <p>Feito com ReactJs e duas API`s externas <br /> <br /></p>
+            <div className='foot-project'>
+              <a href="https://patrikmaltacm.github.io/miaw-facts/">Olhar</a>
             </div>
           </div>
         </div>

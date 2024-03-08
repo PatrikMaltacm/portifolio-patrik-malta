@@ -104,7 +104,7 @@ button:hover{
     justify-content: center;
     flex-direction: column;
     width: 20rem;
-
+    border-radius: 20px;
     background-color: aliceblue;
 }
 
